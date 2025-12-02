@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ゆるふわ樹海ガール／歌、初音ミク",
+  "base_artist": "石風呂 / 朝日",
+  "createdAt": "2025-12-02T06:50:29.116703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゆるふわ樹海ガール",
+      "artist": "Necry Talkie",
+      "has_synced": true,
+      "path": "select/01_ゆるふわ樹海ガール_Necry_Talkie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゆるふわ樹海ガール",
+      "artist": "石風呂",
+      "has_synced": true,
+      "path": "select/02_ゆるふわ樹海ガール_石風呂.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆるふわ樹海ガール",
+      "artist": "石風呂",
+      "has_synced": false,
+      "path": "select/pl_01_ゆるふわ樹海ガール_石風呂.txt"
+    }
+  ]
+}
